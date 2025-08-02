@@ -1,1 +1,1 @@
-Airdrop Contract implementing Merkle Trees and Signature Verification
+Airdrop Contract implementing Merkle Trees and Signature Verifications
